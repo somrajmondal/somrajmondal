@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somrajmondal&label=Profile%20views&color=0e75b6&style=flat" alt="somrajmondal" /> </p>
 
-- 🔭 I’m currently working on **Banking Reconciliation System**
+- 🔭 I’m currently working on **LLM, Prompting, NLP, Data Extraction Part of Intelligent Document Processing**
 
 - 🌱 I’m currently learning **GEN AI**
 
